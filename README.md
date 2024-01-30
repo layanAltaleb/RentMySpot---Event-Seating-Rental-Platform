@@ -1,0 +1,1 @@
+# RentMySpot---Event-Seating-Rental-Platform

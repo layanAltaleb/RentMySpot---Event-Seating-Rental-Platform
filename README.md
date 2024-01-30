@@ -11,7 +11,7 @@ Our goal is to create an easy-to-use mobile app that centralizes and simplifies 
 ### Key Features:
 
 1. **User Registration:**
-   - Users can easily register for an account on RentMySpot, providing necessary details.
+   - Users can easily register for an account on RentMySpot, providing the necessary details.
 
 2. **User Authentication:**
    - Secure login and logout functionality to protect user accounts.
@@ -28,19 +28,6 @@ Our goal is to create an easy-to-use mobile app that centralizes and simplifies 
 6. **Rent/Return Items:**
    - The app facilitates the seamless process of renting and returning seating furniture.
 
-### User Benefits:
-
-- **Wide Range of Options:**
-  - RentMySpot provides a diverse selection of seating areas that can be customized to suit different event types, sizes, and budgets.
-
-- **Easy Reservation Management:**
-  - Users can efficiently manage their seating reservations and make adjustments as needed.
-
-- **User Reviews:**
-  - A review system allows users to share their rental experiences, aiding others in decision-making.
-
-- **Time and Cost Savings:**
-  - The platform is designed to save users time and money, reducing the stress associated with event planning.
 
 ## How to Use:
 
@@ -78,6 +65,9 @@ Our goal is to create an easy-to-use mobile app that centralizes and simplifies 
 
 - **Testing:**
   - The application underwent rigorous testing to ensure functionality and meet user requirements.
+
+## Project Year:
+2022/2023 second semester.
  
  ## **Contributors:**
 - Layan Altaleb
